@@ -1,1 +1,1 @@
-Go ahead and copy them into your  own `.github/skills/` directory,  reload your VS Code window, and try triggering each one with a prompt you'd actually write in your day-to-day work.
+Go ahead and copy them into your  own `.github/skills/` directory,  reload your VS Code window by running `Developer: Reload Window`, and try triggering each one with a prompt you'd actually write in your day-to-day work.
